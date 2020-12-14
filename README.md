@@ -31,3 +31,6 @@ The code `tcga_tensor.py` converts raw sparse tensor into dense tensor, performs
   year={2021}
 }
 ```
+
+### Contact Us
+Please open an issue or contact <yuan.luo@northwestern.edu> with any questions.

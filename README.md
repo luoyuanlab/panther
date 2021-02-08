@@ -28,9 +28,12 @@ The code `tcga_tensor.py` converts raw sparse tensor into dense tensor, performs
   title={PANTHER: Pathway Augmented Nonnegative Tensor factorization for HighER-order feature learning},
   author={Luo, Yuan and Mao, Chengsheng},
   booktitle={AAAI},
-  year={2021}
+  year={2021},
+  url={https://arxiv.org/abs/2012.08580}
 }
 ```
+### Link to paper
+[https://arxiv.org/abs/2012.08580](https://arxiv.org/abs/2012.08580)
 
 ### Contact Us
 Please open an issue or contact <yuan.luo@northwestern.edu> with any questions.

@@ -4,7 +4,7 @@
 Code is written in Python (3.7.3) and requires PyTorch (1.0.0).
 
 ### Data
-In this experiment, we have used the dataset from The Cancer Genome Atlas (TCGA), which can be downloaded at https://portal.gdc.cancer.gov/. We focus on the four most prevalent cancer types: breast cancer, colorectal cancer, lung cancer and prostate cancer. If you just want to run the tensor factorization algorithm, you can download our prepared data at [here](https://northwestern.box.com/s/udk52xws36xd8m2z5qd72yasyvws66cx).
+In this experiment, we have used the dataset from The Cancer Genome Atlas (TCGA), which can be downloaded at https://portal.gdc.cancer.gov/. We focus on the four most prevalent cancer types: breast cancer, colorectal cancer, lung cancer and prostate cancer. If you just want to run the tensor factorization algorithm, you can download our prepared data at [here](https://www.dropbox.com/sh/ucfmtbuv70nmmq9/AABiBuiYZC5M2qzGxrpPbY3-a?dl=0).
 
 ### Analysis
 To perform PANTHER analysis on germline TCGA data, run
